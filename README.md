@@ -1,4 +1,4 @@
-# Case Study: Lyrical Sentiment and Word Importance Across Music Genres
+# Lyrical Sentiment and Word Importance Across Music Genres
 ## Description
 This repository contains a case study that is targeted for 2nd year students
 
